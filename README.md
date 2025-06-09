@@ -7,3 +7,5 @@ That project uses Arduino code, but the Pico 2W is fast enough to do a fine job 
 Wiring Diagram:
 
 <img width="800" alt="wiring ssd1351" src="https://github.com/user-attachments/assets/2410fb04-0e1d-4fcd-b434-73ff65372ae6" />
+
+[![Watch the video](https://img.youtube.com/vi/94gmt1TSVDE/0.jpg)](https://youtube.com/shorts/94gmt1TSVDE)
